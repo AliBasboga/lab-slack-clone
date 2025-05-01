@@ -126,8 +126,9 @@ header nav {
 
 }
 .third {
-    background-image: ur
+      background-image: url('put the picture you want'); /*put the picture here*/
 }
+
 section.first img {
     height: auto;
     width: 100%;
